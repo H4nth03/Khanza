@@ -136,23 +136,23 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
             }else if(i==24){
                 column.setPreferredWidth(58);
             }else if(i==25){
-                column.setPreferredWidth(200);
+                column.setPreferredWidth(198);
             }else if(i==26){
                 column.setPreferredWidth(200);
             }else if(i==27){
-                column.setPreferredWidth(100);
+                column.setPreferredWidth(97);
             }else if(i==28){
-                column.setPreferredWidth(87);
+                column.setPreferredWidth(75);
             }else if(i==29){
-                column.setPreferredWidth(94);
+                column.setPreferredWidth(85);
             }else if(i==30){
-                column.setPreferredWidth(87);
+                column.setPreferredWidth(81);
             }else if(i==31){
-                column.setPreferredWidth(170);
+                column.setPreferredWidth(156);
             }else if(i==32){
-                column.setPreferredWidth(150);
+                column.setPreferredWidth(200);
             }else if(i==33){
-                column.setPreferredWidth(150);
+                column.setPreferredWidth(108);
             }else if(i==34){
                 column.setPreferredWidth(200);
             }
@@ -1050,7 +1050,7 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
         jLabel86.setBounds(44, 370, 20, 23);
 
         jLabel87.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel87.setText("6.");
+        jLabel87.setText("7.");
         jLabel87.setName("jLabel87"); // NOI18N
         FormInput.add(jLabel87);
         jLabel87.setBounds(440, 220, 20, 23);
@@ -1269,7 +1269,7 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
         jLabel96.setBounds(290, 170, 130, 23);
 
         jLabel97.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel97.setText("7.");
+        jLabel97.setText("8.");
         jLabel97.setName("jLabel97"); // NOI18N
         FormInput.add(jLabel97);
         jLabel97.setBounds(440, 250, 20, 23);
@@ -1291,7 +1291,7 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
         Lansia.setBounds(709, 250, 80, 23);
 
         jLabel103.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel103.setText("9.");
+        jLabel103.setText("10.");
         jLabel103.setName("jLabel103"); // NOI18N
         FormInput.add(jLabel103);
         jLabel103.setBounds(440, 310, 20, 23);
@@ -1313,7 +1313,7 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
         WargaBinaan.setBounds(709, 310, 80, 23);
 
         jLabel105.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel105.setText("10.");
+        jLabel105.setText("11.");
         jLabel105.setName("jLabel105"); // NOI18N
         FormInput.add(jLabel105);
         jLabel105.setBounds(440, 340, 20, 23);
@@ -1335,7 +1335,7 @@ public final class RMSkriningTBC extends javax.swing.JDialog {
         Tingaldiwilayahkumuh.setBounds(709, 340, 80, 23);
 
         jLabel107.setHorizontalAlignment(javax.swing.SwingConstants.LEFT);
-        jLabel107.setText("8.");
+        jLabel107.setText("9.");
         jLabel107.setName("jLabel107"); // NOI18N
         FormInput.add(jLabel107);
         jLabel107.setBounds(440, 280, 20, 23);
